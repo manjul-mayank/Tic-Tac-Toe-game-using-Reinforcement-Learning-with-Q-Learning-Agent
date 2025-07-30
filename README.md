@@ -1,3 +1,10 @@
+## Question:
+- You need to construct a Tic-T ac-T oe game using reinforcement learning, either in Python or another programming language of your choice. Within this task, your goal is to develop a Q learning agent that gains proficiency in the game through experimentation, making moves, and obtaining rewards or penalties based on whether those moves result in a victory, defeat, or tie. You are permitted to utilise standard libraries like T ensorFlow, Keras, pandas, numpy, and similar tools. To be clear and precise your code should have following
+
+- components: Establishing the ecosystem/environment, Outlining the Tic-T ac-T oe gameplay, Constructing the reinforcement learning framework, Conducting model training, Evaluating the model
+
+- DO REMEMBER : The agent should employ the Q-learning algorithm to acquire the best strategy for every combination of state and action.
+
 # 🤖 Tic-Tac-Toe Game using Reinforcement Learning
 
 This project implements a reinforcement learning (RL) agent that learns to play the classic Tic-Tac-Toe game. It uses a simple value-based approach to learn optimal moves through self-play. The project is implemented in Python using Jupyter Notebook and provides a great foundation for understanding basic RL concepts.
